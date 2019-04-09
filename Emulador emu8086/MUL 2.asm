@@ -1,0 +1,4 @@
+ORG 100H
+MOV BX, 3
+MOV AX, 4
+MUL BX; AX = AX * BX

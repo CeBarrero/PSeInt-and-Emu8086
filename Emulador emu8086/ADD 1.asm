@@ -1,0 +1,4 @@
+  ORG 100H
+  MOV AH, 7
+  MOV BH, 3
+  ADD BH, AH 
